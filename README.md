@@ -1,16 +1,3 @@
-# core_5_2_3
+<img src = "https://github.com/Taksh-Malaviya/CORE_FLUTTER_5_2_3/assets/150029733/f8898692-9a37-4492-aa64-3becb6d2af29" width ="250px">
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
